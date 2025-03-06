@@ -2,9 +2,9 @@ from setuptools import setup, find_packages
 
 setup(
     name="kasper",
-    version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    version="0.1.1",
+    author="Kasper Arfman",
+    author_email="kasper.arf@gmail.com",
     description="A simple hello world package",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
